@@ -1,0 +1,11 @@
+public ipv4 dns
+ec2-3-16-240-81.us-east-2.compute.amazonaws.com
+
+ECR push commands
+aws ecr get-login-password --region us-east-2 | docker login --username AWS --password-stdin 688567293550.dkr.ecr.us-east-2.amazonaws.com
+
+URI
+688567293550.dkr.ecr.us-east-2.amazonaws.com/workshop2
+
+Endpoint
+nctutorials.cviaiy680ae7.us-east-2.rds.amazonaws.com
